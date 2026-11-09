@@ -15,7 +15,7 @@ An asynchronous job scheduler with automatic retries and backoff. Built with Pyt
 **Financial Audit Pipeline**
 A FastAPI service that validates batch transactions and logs an audit trail. Built with Python, FastAPI, Pydantic, SQLAlchemy, and PostgreSQL.
 
-**Pool** (in progress)
+**Pool**
 An AI agent for group purchases, built for the PayPal AI Hackathon with the PayPal sandbox and Channel3.
 
 ## Publication
@@ -24,7 +24,7 @@ SQL Injection Attack Detection and Prediction using Machine Learning Predictive 
 
 ## Skills
 
-**Languages:** Python, Scala, Java, SQL
+**Languages:** Python, Scala, Java, SQL, C/C++, TypeScript
 **AI / ML:** RAG, vector search, reranking, prompt engineering, LLM evaluation, scikit-learn, PyTorch, TensorFlow
 **Backend and Cloud:** FastAPI, PostgreSQL, Redis, SQLite, AWS (S3, EC2, Bedrock), Git
 
